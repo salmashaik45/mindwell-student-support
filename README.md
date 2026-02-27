@@ -6,6 +6,7 @@ Students in higher education institutions frequently experience stress, anxiety,
 
 This project addresses the need for a digital platform that provides accessible mental health support and promotes emotional self-awareness.
 
+
 ## 💡 Proposed Solution
 
 MindWell is a responsive web-based platform designed to support student mental wellbeing through:
@@ -18,7 +19,8 @@ MindWell is a responsive web-based platform designed to support student mental w
 
 - A clean, accessible, and user-friendly interface
 
-🚀 Development Context
+
+## 🚀 Development Context
 
 Developed during the **SIH 2K25** Internal Hackathon as a prototype solution for:
 
@@ -26,7 +28,8 @@ Developed during the **SIH 2K25** Internal Hackathon as a prototype solution for
 **Title:** Development of a Digital Mental Health and Psychological Support System for Students in Higher Education
 **Theme:** MedTech / BioTech / HealthTech
 
-# ✨ Key Features
+
+## ✨ Key Features
 
 📊 Mood Tracking (UI Prototype)
 
@@ -36,7 +39,8 @@ Developed during the **SIH 2K25** Internal Hackathon as a prototype solution for
 
 📱 Fully Responsive Design
 
-# 🛠 Tech Stack
+
+## 🛠 Tech Stack
 
 - React
 
@@ -46,11 +50,13 @@ Developed during the **SIH 2K25** Internal Hackathon as a prototype solution for
 
 - Tailwind CSS
 
-# 🔗 Live Demo
+
+## 🔗 Live Demo
 
 https://mindwell-student-support.netlify.app/
 
-# 🖥 Run Locally
+
+## 🖥 Run Locally
 
 Clone the repository:
 
@@ -76,3 +82,9 @@ Build for production:
 ```
 npm run build
 ```
+
+
+## 👩‍💻 About Me
+
+I’m Salma, a Computer Science Engineering student graduating in 2027.
+I love building interactive projects!
