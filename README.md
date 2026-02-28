@@ -86,5 +86,5 @@ npm run build
 
 ## 👩‍💻 About Me
 
-I’m Salma, a Computer Science Engineering student graduating in 2027.
+I’m Salma, a Computer Science Engineering student.
 I love building interactive projects!
