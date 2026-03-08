@@ -217,7 +217,5 @@ npm run build
 
 Computer Science and Engineering Student  
 
-GitHub:  
-
-https://github.com/salmashaik45
+GitHub: https://github.com/salmashaik45
 
