@@ -16,22 +16,50 @@ This project was developed as a **UI prototype** demonstrating how digital tools
 
 ## 📸 Screenshots
 
-### Homepage
-![Homepage](screenshots/homepage.png)
+### 🏠 Homepage
+
+The main landing page introducing the platform and its features.
+
+![Homepage](screenshots/home.png)
 
 ---
 
-### Mood Tracking Interface
-![Mood Tracker](screenshots/mood-tracker.png)
+### 🤖 AI Support Chat
+
+Students can interact with an AI wellness companion for emotional support.
+
+![AI Support](screenshots/ai-support.png)
 
 ---
 
-### Wellness Resources
+### 📊 Daily Mood Check-In
+
+Users can track their emotional state and reflect on factors influencing their mood.
+
+![Mood Check](screenshots/mood-check.png)
+
+---
+
+### 📚 Resource Library
+
+Access curated mental health articles, guides, and educational resources.
+
 ![Resources](screenshots/resources.png)
 
 ---
 
-### Crisis Support
+### 🧘 Wellness Exercises
+
+Guided breathing and relaxation exercises to reduce stress and anxiety.
+
+![Exercises](screenshots/exercises.png)
+
+---
+
+### 🚨 Crisis Support
+
+Emergency helplines and resources for students in crisis situations.
+
 ![Crisis Support](screenshots/crisis-support.png)
 
 ---
@@ -106,10 +134,16 @@ mindwell-student-support/
 │
 ├── public/
 ├── src/
-│ ├── components/
-│ ├── pages/
-│ └── assets/
-│
+│   ├── components/
+│   ├── pages/
+│   └── assets/
+├── screenshots/              
+│   ├── home.png
+│   ├── ai-support.png
+│   ├── mood-check.png
+│   ├── resources.png
+│   ├── exercises.png
+│   └── crisis-support.png
 ├── index.html
 ├── package.json
 ├── package-lock.json
@@ -180,6 +214,7 @@ npm run build
 ## 👩‍💻 Author
 
 **Salma Shaik**  
+
 Computer Science and Engineering Student  
 
 GitHub:  
