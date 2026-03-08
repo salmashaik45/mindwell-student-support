@@ -1,90 +1,188 @@
-# MindWell – Student Mental Health Support System
+# 🧠 MindWell – Student Mental Health Support System
+
+MindWell is a **frontend prototype of a student mental health support platform** designed to promote emotional wellbeing and provide accessible mental health resources for students.
+
+The platform helps students monitor their emotional state, explore wellness resources, and access emergency support information through a **clean and user-friendly interface**.
+
+This project was developed as a **UI prototype** demonstrating how digital tools can support student mental health awareness.
+
+---
+
+## 🚀 Live Demo
+
+🔗 https://mindwell-student-support.netlify.app/
+
+---
+
+## 📸 Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+---
+
+### Mood Tracking Interface
+![Mood Tracker](screenshots/mood-tracker.png)
+
+---
+
+### Wellness Resources
+![Resources](screenshots/resources.png)
+
+---
+
+### Crisis Support
+![Crisis Support](screenshots/crisis-support.png)
+
+---
 
 ## 📌 Problem Statement
 
-Students in higher education institutions frequently experience stress, anxiety, academic pressure, and emotional challenges. Many hesitate to seek help due to stigma, lack of awareness, or limited access to counseling services.
+Students in higher education institutions frequently experience:
 
-This project addresses the need for a digital platform that provides accessible mental health support and promotes emotional self-awareness.
+- Academic stress
+- Anxiety and emotional pressure
+- Lack of accessible mental health support
+- Hesitation to seek help due to stigma
 
+Many institutions do not provide **easy digital access to mental health resources**, leaving students without immediate guidance.
+
+---
 
 ## 💡 Proposed Solution
 
-MindWell is a responsive web-based platform designed to support student mental wellbeing through:
+MindWell is designed as a **digital support platform** that helps students become more aware of their emotional wellbeing.
 
-- Mood tracking interfaces for emotional awareness
+The platform provides:
 
+- Mood tracking interface for emotional reflection
 - Curated mental health and wellness resources
+- Crisis support and emergency contact information
+- A responsive and accessible user interface
 
-- Crisis support and emergency information
+This prototype demonstrates how a **digital mental health support system for students** could function.
 
-- A clean, accessible, and user-friendly interface
-
-
-## 🚀 Development Context
-
-Developed during the **SIH 2K25** Internal Hackathon as a prototype solution for:
-
-**Problem Statement ID:** SIH25092
-**Title:** Development of a Digital Mental Health and Psychological Support System for Students in Higher Education
-**Theme:** MedTech / BioTech / HealthTech
-
+---
 
 ## ✨ Key Features
 
-📊 Mood Tracking (UI Prototype)
+🧠 **Mood Tracking Interface (UI Prototype)**  
+Allows students to reflect on and select their emotional state.
 
-📚 Wellness Resource Section
+📚 **Wellness Resource Section**  
+Provides mental health tips, articles, and support resources.
 
-🚨 Crisis Support Information
+🚨 **Crisis Support Information**  
+Displays emergency helplines and support resources.
 
-📱 Fully Responsive Design
+📱 **Fully Responsive Design**  
+Optimized for desktop, tablet, and mobile devices.
 
+🎨 **Clean and Accessible UI**  
+Designed for ease of use and readability.
+
+---
 
 ## 🛠 Tech Stack
 
+### Frontend
 - React
-
 - TypeScript
-
 - Vite
 
+### Styling
 - Tailwind CSS
 
+### Development Tools
+- ESLint
+- PostCSS
 
-## 🔗 Live Demo
+---
 
-https://mindwell-student-support.netlify.app/
+## 📂 Project Structure
 
+```
+mindwell-student-support/
+│
+├── public/
+├── src/
+│ ├── components/
+│ ├── pages/
+│ └── assets/
+│
+├── index.html
+├── package.json
+├── package-lock.json
+├── tailwind.config.ts
+├── vite.config.ts
+├── tsconfig.json
+└── README.md
+```
 
-## 🖥 Run Locally
+---
 
-Clone the repository:
+## 🚀 Development Context
+
+This project was developed during the **SIH 2K25 Internal Hackathon**.
+
+**Problem Statement ID:** SIH25092  
+
+**Title:**  
+Development of a Digital Mental Health and Psychological Support System for Students in Higher Education
+
+**Theme:**  
+MedTech / BioTech / HealthTech
+
+The project was created as a **frontend prototype demonstrating the user interface and concept of a digital mental health support system.**
+
+---
+
+## ▶️ Run Locally
+
+### 1. Clone the repository
 
 ```
 git clone https://github.com/salmashaik45/mindwell-student-support.git
+
 cd mindwell-student-support
 ```
 
-Install dependencies:
+### 2. Install dependencies
 
 ```
 npm install
 ```
 
-Run development server:
+### 3. Run development server
 
 ```
 npm run dev
 ```
 
-Build for production:
+### 4. Build for production
 
 ```
 npm run build
 ```
 
+---
 
-## 👩‍💻 About Me
+## 🎯 Future Improvements
 
-I’m Salma, a Computer Science Engineering student.
-I love building interactive projects!
+- Backend integration for storing mood data
+- Secure user authentication system
+- Personalized wellness recommendations
+- AI-based mental health chatbot
+- Integration with university counseling services
+
+---
+
+## 👩‍💻 Author
+
+**Salma Shaik**  
+Computer Science and Engineering Student  
+
+GitHub:  
+
+https://github.com/salmashaik45
+
